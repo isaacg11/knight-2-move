@@ -76,7 +76,7 @@ function calculateNextMoves(cell) {
 ```
 
 ## Contributing
-Pull requests are welcome. See [CONTRIBUTING.md](https://github.com/isaacg11/k2mTest/blob/master/CONTRIBUTING.md) for more info.
+Pull requests are welcome. See [CONTRIBUTING.md](https://github.com/isaacg11/knight-2-move/blob/master/CONTRIBUTING.md) for more info.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
