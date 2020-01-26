@@ -14,7 +14,7 @@ request this way before starting to code.
 
 ### Fork & create a branch
 
-If this is something you think you can fix, then fork knight2move and create
+If this is something you think you can fix, then fork knight-2-move and create
 a branch with a descriptive name.
 
 A good branch name would be (where issue #99 is the ticket you're working on):
@@ -46,10 +46,10 @@ The changelog format is the following:
 ### Make a Pull Request
 
 At this point, you should switch back to your master branch and make sure it's
-up to date with knight2move's master branch:
+up to date with knight-2-move's master branch:
 
 ```
-git remote add upstream git@github.com:knight2move/knight2move.git
+git remote add upstream git@github.com:knight-2-move/knight-2-move.git
 git checkout master
 git pull upstream master
 ```
