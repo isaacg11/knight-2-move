@@ -22,7 +22,7 @@ Knight2Move is a game where a player can see all the moves a knight can make on 
 Start by cloning a local copy of the project to your Desktop. After that, change directories into the root project folder and install the server-side node modules.
 
 ```bash
-cd knight2move && npm install
+cd knight-2-move && npm install
 ```
 ```bash
 npm start
